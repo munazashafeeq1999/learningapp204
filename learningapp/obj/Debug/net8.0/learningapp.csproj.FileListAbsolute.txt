@@ -141,9 +141,15 @@ C:\application\learningapp\bin\Debug\net8.0\learningapp.runtimeconfig.json
 C:\application\learningapp\bin\Debug\net8.0\learningapp.dll
 C:\application\learningapp\bin\Debug\net8.0\learningapp.pdb
 C:\application\learningapp\bin\Debug\net8.0\Azure.Core.dll
+C:\application\learningapp\bin\Debug\net8.0\Azure.Data.AppConfiguration.dll
 C:\application\learningapp\bin\Debug\net8.0\Azure.Identity.dll
+C:\application\learningapp\bin\Debug\net8.0\Azure.Messaging.EventGrid.dll
+C:\application\learningapp\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\application\learningapp\bin\Debug\net8.0\DnsClient.dll
+C:\application\learningapp\bin\Debug\net8.0\Microsoft.Azure.AppConfiguration.AspNetCore.dll
 C:\application\learningapp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\application\learningapp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\application\learningapp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
 C:\application\learningapp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 C:\application\learningapp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\application\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -153,6 +159,7 @@ C:\application\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dl
 C:\application\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\application\learningapp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\application\learningapp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\application\learningapp\bin\Debug\net8.0\System.ClientModel.dll
 C:\application\learningapp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 C:\application\learningapp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\application\learningapp\bin\Debug\net8.0\System.Memory.Data.dll
